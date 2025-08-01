@@ -1,0 +1,36 @@
+/* src/PageStyles.css */
+
+h2 {
+  margin-top: 0;
+}
+
+p {
+  margin: 5px 0;
+}
+
+form {
+  margin-top: 20px;
+}
+
+form input {
+  margin-bottom: 10px;
+}
+
+.success {
+  margin-top: 20px;
+}
+
+@media (max-width: 600px) {
+  .container {
+    padding: 15px;
+  }
+
+  .doctor-image,
+  .profile-image {
+    height: 200px;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}

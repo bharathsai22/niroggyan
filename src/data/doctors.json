@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Aisha Mehta",
+    "specialization": "Cardiologist",
+    "image": "/images/doctor1.jpg",
+    "availability": "Available Today"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Rajiv Kapoor",
+    "specialization": "Dermatologist",
+    "image": "/images/doctor2.jpg",
+    "availability": "Fully Booked"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Sneha Reddy",
+    "specialization": "Pediatrician",
+    "image": "/images/doctor3.jpg",
+    "availability": "On Leave"
+  }
+]
